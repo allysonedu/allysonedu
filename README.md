@@ -39,7 +39,7 @@ Adicionar aqui sua biografia
 
 ## Formação
 
-- Estudando desenvolvimento FullStack - Vem Ser Dev
+- Desenvolvimento web - Vem Ser Dev
 
 </br>
 
