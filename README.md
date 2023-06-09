@@ -28,7 +28,6 @@
 
         
 
-    </div>
 
 <br>
 
@@ -48,5 +47,6 @@ Adicionar aqui sua biografia
 
 - ✅ https://www.dio.me/certificate/CA216B5E/share
 - ✅ https://www.dio.me/certificate/2931FBA3/share
+- ✅ https://drive.google.com/file/d/1NHW_Wyk5jD0juTHL464vAjH0AEfaXeLf/view?usp=sharing
 
 
