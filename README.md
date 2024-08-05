@@ -17,8 +17,8 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 19 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Javascripts, Typescripts, Data visualization, and Machine Learning. 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  - 💬I'm 19 years old, I currently live in Brazil. I speak intermediate English and experience with SQL, Javascripts, Typescripts, Data Visualization. 
+  - ⚡ I like reading, whether it's a good book, manga or comics, as well as going to the gym and playing games! I believe that our personal interests are oriented towards a more accurate perception of things and solving problems.
 </details>
 
 <!-- Links -->
