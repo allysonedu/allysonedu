@@ -28,7 +28,7 @@
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=allysonedu&show_icons=true&theme=gotham)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allysonedu&langs_count=8&show_icons=true&theme=gotham)
 <!-- Portfolio -->
 
 
