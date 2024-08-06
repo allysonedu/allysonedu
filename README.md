@@ -34,7 +34,7 @@
 
 ###
 <!-- GIF -->
-<p align="left">
+<p align="center">
   <img align="center" src="https://github.com/user-attachments/assets/e881395e-6623-4a13-88bf-0d1ff7aa20cf" alt="Imagem" width="650px">
   
 
