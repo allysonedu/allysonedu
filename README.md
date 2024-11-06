@@ -71,7 +71,13 @@
    <img align="center" alt="robighetti-POSTGRES" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
    <img align="center" alt="robighetti-MONGO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
    
+## Certificados
 
+- ✅ Python (Rocketseat)
+- ✅ Node.JS (Rocketseat)
+- ✅ Desenvolvimento web (Udemy)
+- ✅ Backend and Frontend (VemSerDev)
+  
   
   </div>
 <div align="center">
